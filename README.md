@@ -14,7 +14,7 @@
 - NodeJS
 - NPM
 
-## [2] Iniciar o front
+## [1] Iniciar o front
 ```
 cd ./pomodoroTimer
 npm install
