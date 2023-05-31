@@ -1,2 +1,22 @@
-# pomodoroTimer
- SPAs Pomodoro Timer
+# Tecnologias
+- ReactJS
+- TypeScript
+- Styled components
+- Zod
+- HookForm
+- Date-fns
+- ImmerJs
+- Phosphor-react
+
+# Como rodar o código?
+
+## Pré-requisitos
+- NodeJS
+- NPM
+
+## [2] Iniciar o front
+```
+cd ./pomodoroTimer
+npm install
+npm run dev
+```
