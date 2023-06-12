@@ -11,7 +11,6 @@
 # Como rodar o código?
 
 ## Pré-requisitos
-- NodeJS
 - NPM
 
 ## [1] Iniciar o front
